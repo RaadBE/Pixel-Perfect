@@ -1,0 +1,23 @@
+footer {
+  width: 1474px;
+  height: 377px;
+  background-color: #492549;
+  display: inline-flex;
+  color: white;
+  list-style: none;
+  justify-content: space-between;
+  padding-top: 44px; }
+
+a {
+  list-style: none;
+  color: white;
+  text-align: center; }
+
+.first-col {
+  flex-basis: 525px; }
+
+.first-col p {
+  text-align: center;
+  font-size: 24px; }
+
+/*# sourceMappingURL=style.css.map */

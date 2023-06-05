@@ -1,0 +1,20 @@
+body {
+  width: 80%;
+  margin: 0 auto;
+  background-color: black; }
+
+header {
+  height: 401px;
+  width: 1476px;
+  background-color: #0c0c0c;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  text-align: center; }
+
+p {
+  font-family: 'Public Sans', sans-serif;
+  font-size: 24px; }
+
+/*# sourceMappingURL=style.css.map */
