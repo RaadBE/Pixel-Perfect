@@ -41,6 +41,7 @@ body {
   margin: 0 auto; }
 
 footer {
+  font-family: sans-serif;
   width: 1474px;
   height: 470px;
   background-color: #492549;
@@ -59,12 +60,13 @@ a {
   flex-basis: 525px; }
 
 .first-col p {
-  text-align: center;
+  text-align: left;
   font-size: 24px;
-  padding-left: 45px; }
+  padding-left: 52px; }
 
 .second-col li {
   padding-bottom: 28px;
+  text-align: left;
   font-size: 20px; }
 
 .second-col {
@@ -95,6 +97,22 @@ footer h2 {
 
 .third-col li {
   padding-bottom: 17px;
-  font-size: 20px; }
+  font-size: 20px;
+  text-align: left; }
+
+i {
+  padding-right: 3px; }
+
+h2, h1, h3 {
+  font-family: serif;
+  font-weight: 700;
+  font-size: 30px; }
+
+em {
+  background-color: #943475;
+  border-radius: 10px;
+  margin-left: 1px;
+  padding: 7px;
+  font-size: 12px; }
 
 /*# sourceMappingURL=style.css.map */
